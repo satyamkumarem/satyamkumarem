@@ -1,1 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyamkumarem=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyamkumarem&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyamkumarem&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyamkumarem&theme=default)
