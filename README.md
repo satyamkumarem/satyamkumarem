@@ -44,7 +44,7 @@ If you're curious about what I'm currently building—or which project I've acci
   <summary>My GitHub stats showcase my contributions, consistency, and most-used programming languages, giving a clear picture of my development activity and growth over time.</summary>
   <br>
   
-  <a href="#">![Github stats]([https://github-readme-stats.vercel.app/api](https://denvercoder1-github-readme-stats.vercel.app/api/?username=satyamkumarem&theme=transparent&count_private=true&line_height=20&rank_icon=percentile&card_width=400)</a>
+  <a href="#">![Github stats]([https://denvercoder1-github-readme-stats.vercel.app/api/?username=satyamkumarem&theme=transparent&count_private=true&line_height=20&rank_icon=percentile&card_width=400)</a>
   <a href="#">![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=satyamkumarem&layout=compact&theme=transparent&count_private=true&size_weight=0.5&count_weight=0.5&card_width=400)</a>
 </details>
 
