@@ -19,6 +19,7 @@ If you're curious about what I'm currently building—or which project I've acci
 ### Languages and Tools
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
